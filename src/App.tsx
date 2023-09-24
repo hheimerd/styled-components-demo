@@ -1,8 +1,10 @@
+import {CssProp} from './components/CssProp';
+
 function App() {
 
   return (
     <>
-
+      <CssProp/>
     </>
   )
 }
